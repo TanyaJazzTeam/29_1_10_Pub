@@ -3,15 +3,15 @@ msgid "Had to lose my way to know which road to take."
 msgstr ""
 
 #: /views/partials/format-visuals/websites.j2:10
-msgid "Yesterday all my troubles seemed so far away, now it looks as though they’re here to stay. "
+msgid "Yesterday all my troubles seemed so far away, now it looks as though theyâ€™re here to stay. "
 msgstr ""
 
 #: /views/partials/format-visuals/websites.j2:7
-msgid "Don’t ever let anyone tell you, You ain’t beautiful."
+msgid "Donâ€™t ever let anyone tell you, You ainâ€™t beautiful."
 msgstr ""
 
 #: /views/partials/footer.j2:74
-msgid "I’m not a piece of cake for you to just discard while you walk away with the frosting on my heart."
+msgid "Iâ€™m not a piece of cake for you to just discard while you walk away with the frosting on my heart."
 msgstr ""
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
@@ -27,22 +27,22 @@ msgid "Leave behind your heartache, cast away. Just another product of today. Ra
 msgstr ""
 
 #: /views/partials/banner.j2:5
-msgid "Hey! I’ma keep running cause a winner don’t quit on themselves. "
+msgid "Hey! Iâ€™ma keep running cause a winner donâ€™t quit on themselves. "
 msgstr ""
 
 #: /views/partials/footer.j2:43
-msgid "We are the champions, my friends And we’ll keep on fighting…till the end."
+msgid "We are the champions, my friends And weâ€™ll keep on fightingâ€¦till the end."
 msgstr ""
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/spec/_blueprint.yaml
-msgid "So you can keep knocking, But won’t knock me down."
+msgid "So you can keep knocking, But wonâ€™t knock me down."
 msgstr ""
 
 #: /content/amp-dev/support/faq/overview.md
-msgid "And if there’s love in this life, there’s no obstacle, that can’t be defeated."
+msgid "And if thereâ€™s love in this life, thereâ€™s no obstacle, that canâ€™t be defeated."
 msgstr ""
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
-msgid "If it doesn`t break your heart, it isn’t love."
+msgid "If it doesn`t break your heart, it isnâ€™t love."
 msgstr ""
 
